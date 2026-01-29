@@ -1,0 +1,23 @@
+# Temporary files
+*.tmp
+*.log
+*.aux
+*.pdf
+
+# pdfcrop temp files
+tmp-pdfcrop-*
+
+# Editor files
+*~
+*.swp
+*.swo
+.*.swp
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.idea/
+.vscode/
+*.sublime-*
